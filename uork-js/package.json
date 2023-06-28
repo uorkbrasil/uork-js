@@ -1,0 +1,11 @@
+{
+  "name": "templates",
+  "version": "1.0.0",
+  "description": "An simple js template",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Uork",
+  "license": "ISC"
+}

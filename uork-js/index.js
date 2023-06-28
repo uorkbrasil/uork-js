@@ -37,6 +37,11 @@ const configs = {
     smartphone_notifications: { 
         ios_notifications: "notifications",
         android_notifications: "noticications"
+    },
+     smartphone_laara: { 
+        ios: "female",
+        android: "female",
+        standart: "male"
     }
 
 }
